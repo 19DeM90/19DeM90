@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dennis!
 - 👀 I’m interested in all aspects of data science
-- 🌱 I’m currently learning using Python for applying machine learning on real world data
+- 🌱 I’m currently learning Python for applying machine learning on real world data
 
 
 <!---
